@@ -88,10 +88,13 @@ If you want to run a backup immediately:
 
 ![image](https://github.com/user-attachments/assets/bf48c528-2a51-42b8-a422-59bd1b86fe5a)
 
-3. Follow the steps as in the backup schedule process.  
+3. Follow the steps as in the backup schedule process and then click on **`Backup`**.  
 
 ![image](https://github.com/user-attachments/assets/42a83a17-837a-4dd8-b675-0d3cf0361d81)
 
+4.  Click on **`Close`**
+
+![image](https://github.com/user-attachments/assets/d654a82f-83ea-4a88-95c1-957053343803)
 
 ---
 
