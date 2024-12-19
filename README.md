@@ -32,6 +32,8 @@ Backing up your Windows Server is essential for disaster recovery and data prote
    - Right-click the drive in **`File Explorer`**.  
    - Select **`Format...`** and choose **`NTFS`**.  
 
+![image](https://github.com/user-attachments/assets/aef527ce-3881-46bc-906c-924190ec1481)
+
 ---
 
 ## **Step 3: Configure the Backup**  
