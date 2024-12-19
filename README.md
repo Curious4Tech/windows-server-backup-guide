@@ -100,7 +100,7 @@ If you want to run a backup immediately:
 
 ## **Best Practices**  
 
-- **`Use a Dedicated Backup Drive:`** Prevent accidental overwriting by using a dedicated external hard drive.  
+- **`Use a Dedicated Backup Drive or mutilple Drives:`** Prevent accidental overwriting by using a dedicated external hard drive.  
 - **`Check Available Space:`** Ensure your drive has enough space for the backup.  
 - **`Off-Site Storage:`** Consider storing backups off-site for disaster recovery.  
 - **`Automate Backups:`** Use scheduled backups to reduce manual intervention.  
